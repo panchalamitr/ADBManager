@@ -15,3 +15,6 @@ ADB Manager is a Python-based application with a GUI that allows users to manage
 - Android device with ADB enabled
 - `adb` installed and accessible in your system's PATH
 
+## Screenshot
+
+![ADB Manager UI](images/screenshot.png)
